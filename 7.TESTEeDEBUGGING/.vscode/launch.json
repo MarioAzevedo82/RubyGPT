@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Ruby File",
+        "type": "ruby",
+        "request": "launch",
+        "program": "${file}"
+      }
+    ]
+  }
+  
